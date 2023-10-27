@@ -2,6 +2,11 @@
 - 블서류 생존 게임 undead survivor를 clone coding을 통해 연습해보자
 - zombie survivor game
   
+<div align="center">
+  
+![image_zombie](imageassets/zombie_image.PNG)
+
+</div>
 
 <div align="center">
 <br>
